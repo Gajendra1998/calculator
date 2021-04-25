@@ -1,3 +1,4 @@
 # calculator
-basic calculator onjy  basic calculation by javascript
+basic calculator only  basic calculation by javascript
+
 
