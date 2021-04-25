@@ -1,2 +1,3 @@
 # calculator
-basic calculator onlt basic calculation
+basic calculator onjy  basic calculation by javascript
+
